@@ -1,0 +1,101 @@
+﻿Field,2024,2023,Category
+Balance Sheet Date,30-Sep-24,30-Sep-23,Balance Sheet
+Accounts Receivable Current,4524095,3487313,Balance Sheet
+Inventory Current,428961,77140,Balance Sheet
+Wages Recoverable,30566,0,Balance Sheet
+Prepaid Expenses,573835,104785,Balance Sheet
+Due From Related Parties,100010,495096,Balance Sheet
+Due From Shareholder,574948,1108924,Balance Sheet
+Total Current Assets,6232415,5273258,Balance Sheet
+Property Plant Equipment Net,86806,72593,Balance Sheet
+Total Assets,6319221,5345851,Balance Sheet
+Bank indebtedness ,3729068,2176013,Balance Sheet
+Accounts Payable,1660965,2134542,Balance Sheet
+Income taxes payable ,3876,3822,Balance Sheet
+Current portion of long term debt,68951,96711,Balance Sheet
+Goods and services tax payable,56363,14840,Balance Sheet
+Employee deductions payable,86699,44914,Balance Sheet
+Due to related parties,213969,300782,Balance Sheet
+Due to shareholder,866687,1020320,Balance Sheet
+Total Current Liabilities,6686578,5791944,Balance Sheet
+Long Term Debt,48517,117468,Balance Sheet
+Total Liabilities,6735095,5909412,Balance Sheet
+Share Capital,2,2,Balance Sheet
+Deficit,-415876,-563563,Balance Sheet
+Total Shareholder Deficit,-415874,-563561,Balance Sheet
+Revenues,30744679,29175143,Statement of Income
+Owner Operator Expenses,6395230,2929389,Statement of Income
+Salaries and Related Benefits,5330133,5983213,Statement of Income
+Fuel and Oil,8143116,7719893,Statement of Income
+Other Direct Cost,1952178,1851994,Statement of Income
+Truck Expense,6114853,7898018,Statement of Income
+Total Cost of Sales,27935510,26382507,Statement of Income
+Gross Profit,2809169,2792636,Statement of Income
+Advertising and Promotion,18046,55004,Statement of Income
+Amortization,42162,44835,Statement of Income
+Bad Debts,4700,0,Statement of Income
+Interest and Bank Charges,321131,119247,Statement of Income
+Interest on Long Term Debt,24012,172083,Statement of Income
+Management Salaries,1275461,1370138,Statement of Income
+Meals and Entertainment,3835,15876,Statement of Income
+Office,64693,58702,Statement of Income
+Professional Fees,48850,73466,Statement of Income
+Rental,716396,560608,Statement of Income
+Repairs and Maintenance,96003,82679,Statement of Income
+Telephone,208,0,Statement of Income
+Travel,11469,25108,Statement of Income
+Utilities,34516,28379,Statement of Income
+Total Expenses,2661482,2606125,Statement of Income
+Income from Operations,147687,186511,Statement of Income
+Other Income,0,5427,Statement of Income
+Gain (Loss) on Foreign Exchange,0,-115095,Statement of Income
+Total Other Income,0,-109668,Statement of Income
+Net Income,147687,76843,Statement of Income
+Deficit Beginning of Year,-563563,-640406,Statement of Deficit
+Net Income,147687,76843,Statement of Deficit
+Deficit End of Year,-415876,-563563,Statement of Deficit
+"Amortization of Property, Plant and Equipment",42162,44835,Statement of Cash Flow
+Cash from Operations Before Working Capital,189849,121678,Statement of Cash Flow
+Accounts Receivable,-1036782,-462433,Statement of Cash Flow
+Inventory,-351821,-33615,Statement of Cash Flow
+Accounts Payable,-473579,499860,Statement of Cash Flow
+Income Taxes Payable,54,3822,Statement of Cash Flow
+Prepaid Expenses,-469050,280037,Statement of Cash Flow
+Goods and Services Tax Payable,41523,-11546,Statement of Cash Flow
+Wages Payable,-30566,-280836,Statement of Cash Flow
+Employee Deductions Payable,41785,-37177,Statement of Cash Flow
+Total Changes in non-cash working capital,-2278436,-41888,Statement of Cash Flow
+Cash Flow from Operating Activities,-2088587,79790,Statement of Cash Flow
+"Purchase of Property, Plant and Equipment",-56373,-47914,Statement of Cash Flow
+Advances from Related Parties,308273,640816,Statement of Cash Flow
+Advances from Shareholder,380343,219427,Statement of Cash Flow
+Repayment of Long Term Debt,-96711,-96232,Statement of Cash Flow
+Cash Flow from Financing Activities,591905,764011,Statement of Cash Flow
+Increase (Decrease) in Cash Flow,-1553055,795887,Statement of Cash Flow
+Deficiency - Beginning of Year,-2176013,-2971900,Statement of Cash Flow
+Deficiency - End of Year,-3729068,-2176013,Statement of Cash Flow
+Bank Indebtedness,-3729068,-2176013,Statement of Cash Flow
+BDC Loan 1,13880,55520,Notes Financial
+BDC COVID Relief Loan,50810,84770,Notes Financial
+BDC Loan 2,52778,73889,Notes Financial
+Total Long Term Debt,117468,214179,Notes Financial
+Amounts Payable Within One Year,-68951,-96711,Notes Financial
+Long Term Debt Net of Current Portion,48517,117468,Notes Financial
+Principal Repayment 2025,68951,,Notes Financial
+Principal Repayment 2026,37961,,Notes Financial
+Principal Repayment 2027,10556,,Notes Financial
+Equipment Cost,141335,,Notes Financial
+Equipment Accumulated Amortization,131575,,Notes Financial
+Equipment Net Book Value,9760,21690,Notes Financial
+Computer Equipment Cost,94642,,Notes Financial
+Computer Equipment Accumulated Amortization,77538,,Notes Financial
+Computer Equipment Net Book Value,17104,30686,Notes Financial
+Furniture and Fixtures Cost,60887,,Notes Financial
+Furniture and Fixtures Accumulated Amortization,14792,,Notes Financial
+Furniture and Fixtures Net Book Value,46095,6835,Notes Financial
+Leasehold Improvements Cost,70817,,Notes Financial
+Leasehold Improvements Accumulated Amortization,56970,,Notes Financial
+Leasehold Improvements Net Book Value,13847,13382,Notes Financial
+Total PPE Cost,367681,,Notes Financial
+Total PPE Accumulated Amortization,280875,,Notes Financial
+Total PPE Net Book Value,86806,72593,Notes Financial
